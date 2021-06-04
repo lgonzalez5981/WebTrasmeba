@@ -41,3 +41,8 @@ ul{
 .row{
     margin: 20px;
 }
+.panel-trabaja{
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+}
